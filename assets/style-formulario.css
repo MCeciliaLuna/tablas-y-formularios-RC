@@ -1,0 +1,37 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #f1faee;
+  color: #003049;
+}
+
+header{
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.d-inline{
+  margin: 50px;
+}
+
+.col-4{
+  padding: 20px;
+}
+
+.mayoria-de-edad{
+  padding: 20px;
+  text-align: center;
+}
+
+.col-12{
+    padding: 20px;
+}
+
+.button{
+  padding: 5px;
+}
