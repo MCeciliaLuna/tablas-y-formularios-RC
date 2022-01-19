@@ -5,4 +5,5 @@ La tarea consistía en practicar TABLAS Y FORMULARIOS en HTML, con la data de la
 La página de Tablas debía abrirse en una nueva pestaña.El Formulario debía tener algunas opciones obligatorias.
 ***
 Hice el trabajo usando HTML, CSS y Bootstrap, ya que, hasta este momento, ya lo habíamos visto.
-
+***
+La página no es responsive porque la consigna no lo pedía de esa manera.
